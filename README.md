@@ -21,7 +21,7 @@ KIRD(국가과학기술인력개발원) 2023 과학기술 인재개발 활동조
 | `df_rename_columns_kird_mapping_v2.py` | 원본 한글 문항명을 코드형 변수명으로 바꾸는 컬럼 매핑 딕셔너리(`kird_mapping`). 전처리/라벨링 시 사용. |
 | `scripts/` | 번호 순서대로 실행하는 **메인 파이프라인**. |
 | `processed/` | 스크립트 실행 결과가 쌓이는 폴더. |
-| `READMEv2.md` | 이 파일. |
+| `README.md` | 이 파일. |
 
 ---
 
